@@ -1,0 +1,13 @@
+@import './_variables.scss';
+
+html, body {
+  margin: 0 auto;
+  font-family: $header-font;
+  background-color: $primary-color;
+}
+
+.App {
+  text-align: center;
+  color: $secondary-color;
+  font-size: 2em;
+}

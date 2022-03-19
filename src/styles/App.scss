@@ -2,12 +2,13 @@
 
 html, body {
   margin: 0 auto;
-  font-family: $header-font;
-  background-color: $primary-color;
+  font-family: $font;
+  background-color: $bg-color;
 }
 
 .App {
   text-align: center;
-  color: $secondary-color;
-  font-size: 2em;
+  color: $dk-font-color;
+  font-weight: 700;
+  font-size: 3em;
 }
